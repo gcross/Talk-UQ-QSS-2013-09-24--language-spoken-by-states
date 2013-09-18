@@ -436,9 +436,9 @@
      inkscape:window-height="1156"
      id="namedview26763"
      showgrid="false"
-     inkscape:zoom="0.82987516"
-     inkscape:cx="446.76939"
-     inkscape:cy="358.67549"
+     inkscape:zoom="0.96026063"
+     inkscape:cx="455.99367"
+     inkscape:cy="349.86298"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -931,47 +931,47 @@
   <text
      xml:space="preserve"
      style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-     x="511.72656"
-     y="222.39459"
+     x="510.03125"
+     y="218.39459"
      id="text19849"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="511.72656"
-       y="222.39459"
+       x="510.03125"
+       y="218.39459"
        id="tspan20367">Direct</tspan><tspan
        sodipodi:role="line"
-       x="511.72656"
-       y="292.39459"
+       x="510.03125"
+       y="288.39459"
        id="tspan20371">Product</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text20373"
-     y="222.39459"
+     y="218.39459"
      x="851.40204"
      style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
      xml:space="preserve"><tspan
        id="tspan20375"
-       y="222.39459"
+       y="218.39459"
        x="851.40204"
        sodipodi:role="line">Direct</tspan><tspan
        id="tspan20377"
-       y="292.39459"
+       y="288.39459"
        x="851.40204"
        sodipodi:role="line">Sum</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
      x="170.06871"
-     y="222.39459"
+     y="218.39459"
      id="text20379"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        x="170.06871"
-       y="222.39459"
+       y="218.39459"
        id="tspan20381">Tensor</tspan><tspan
        sodipodi:role="line"
        x="170.06871"
-       y="292.39459"
+       y="288.39459"
        id="tspan20383">Product</tspan></text>
   <text
      sodipodi:linespacing="125%"
@@ -1043,5 +1043,27 @@
      id="text20703"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan20705"></tspan></text>
+       id="tspan20705" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="511.71875"
+     y="326.53598"
+     id="text9617"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan9619"
+       x="511.71875"
+       y="326.53598">(*Cartesian)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+     x="587.45789"
+     y="203.36977"
+     id="text9621"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan9623"
+       x="587.45789"
+       y="203.36977">*</tspan></text>
 </svg>
