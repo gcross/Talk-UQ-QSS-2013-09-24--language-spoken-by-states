@@ -1,1 +1,1 @@
-\equiv (n:N) \to (C^2)^{\otimes\, n}
+\equiv (n:\mathbb{N}) \to (\mathbb{C}^2)^{\otimes\, n}
