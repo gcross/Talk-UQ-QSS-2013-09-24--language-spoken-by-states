@@ -12,7 +12,7 @@
    width="1024"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="state-family-3.svg">
   <metadata
      id="metadata26767">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -576,12 +576,19 @@
      id="namedview26763"
      showgrid="false"
      inkscape:zoom="0.82987516"
-     inkscape:cx="446.76939"
+     inkscape:cx="226.25429"
      inkscape:cy="358.67549"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect3924"
+     width="368.73019"
+     height="73.505035"
+     x="471.15518"
+     y="217.31476" />
   <rect
      y="-3.0517578e-05"
      x="2"
