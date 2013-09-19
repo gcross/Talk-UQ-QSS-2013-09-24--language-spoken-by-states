@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -896,7 +896,7 @@
        y="268.46997">But why?</tspan></text>
   <g
      inkscape:label="#g5534"
-     id="g17135"
+     id="sf-4-1"
      transform="translate(-4.2417,91.46188)">
     <path
        sodipodi:type="arc"
@@ -936,7 +936,7 @@
   </g>
   <g
      transform="translate(-4.2417,311.46188)"
-     id="g7082"
+     id="sf-4-2"
      inkscape:label="#g5534">
     <path
        transform="translate(0.16506,1.154995)"

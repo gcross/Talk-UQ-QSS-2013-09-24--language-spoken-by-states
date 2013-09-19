@@ -870,7 +870,7 @@
      id="namedview26763"
      showgrid="false"
      inkscape:zoom="0.82987516"
-     inkscape:cx="605.22695"
+     inkscape:cx="453.99938"
      inkscape:cy="406.87551"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -893,7 +893,7 @@
      sodipodi:insensitive="true" />
   <g
      id="surface1"
-     transform="matrix(1.25,0,0,1.25,193.33656,181.53091)">
+     transform="matrix(1.25,0,0,1.25,193.33656,189.68285)">
     <g
        id="g17573"
        style="fill:#000000;fill-opacity:1">
@@ -1025,8 +1025,9 @@
      x="426.57019"
      y="210.08476" />
   <g
-     id="surface1-0"
-     transform="matrix(1.25,0,0,1.25,430.40967,226.51845)">
+     id="sf-3-1"
+     transform="matrix(1.25,0,0,1.25,430.40967,226.51845)"
+     inkscape:label="#surface1-0">
     <g
        id="g4906"
        style="fill:#000000;fill-opacity:1">
@@ -1173,11 +1174,12 @@
   </g>
   <text
      sodipodi:linespacing="125%"
-     id="text17139"
+     id="sf-3-2"
      y="401.10168"
      x="71.488358"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-     xml:space="preserve"><tspan
+     xml:space="preserve"
+     inkscape:label="#text17139"><tspan
        id="tspan6963"
        y="401.10168"
        x="71.488358"
@@ -1199,8 +1201,9 @@
      style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
      x="511.125"
      y="688.46997"
-     id="text7015"
-     sodipodi:linespacing="125%"><tspan
+     id="sf-3-3"
+     sodipodi:linespacing="125%"
+     inkscape:label="#text7015"><tspan
        sodipodi:role="line"
        id="tspan7017"
        x="511.125"
