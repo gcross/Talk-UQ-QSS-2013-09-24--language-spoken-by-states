@@ -1,0 +1,1 @@
+\text{magnetic field}=I^*ZI^*

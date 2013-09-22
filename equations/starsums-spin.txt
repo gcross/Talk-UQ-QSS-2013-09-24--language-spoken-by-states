@@ -1,0 +1,1 @@
+\text{spin coupling}=I^*ZZI^*
