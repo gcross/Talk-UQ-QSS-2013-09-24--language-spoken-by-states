@@ -1,0 +1,1 @@
+\psi(\alpha,\beta,\gamma) = \sum_{ijkl} L_i\cdot M_{ij}^\alpha \cdot M_{jk}^\beta \cdot M_{kl}^\gamma \cdot R_l

@@ -1,0 +1,1 @@
+\left|\text{cat}_n\right>=\left|\uparrow\right>^n+\left|\downarrow\right>^n

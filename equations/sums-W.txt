@@ -1,0 +1,1 @@
+\left|\text{W}_n\right>=\sum_{i=0}^{n-1}\left|\uparrow\right>^{i}\left|\downarrow\right>\left|\uparrow\right>^{n-i-1}

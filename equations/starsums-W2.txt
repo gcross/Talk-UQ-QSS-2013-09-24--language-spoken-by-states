@@ -1,0 +1,1 @@
+\left|\text{W}^2\right>=\left|\uparrow\right>^*\left|\downarrow\right>\left|\uparrow\right>^*\left|\downarrow\right>\left|\uparrow\right>^*

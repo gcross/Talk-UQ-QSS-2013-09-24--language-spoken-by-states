@@ -1,0 +1,1 @@
+\text{spin coupling}_n=\sum_{i=0}^{n-2}I^iZZI^{n-i-2}

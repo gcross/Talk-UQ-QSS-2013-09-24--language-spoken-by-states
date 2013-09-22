@@ -1,0 +1,1 @@
+\left|\text{cat}\right>=\sum_{n=0}^\infty\left(\left|\uparrow\right>^n+\left|\downarrow\right>^n\right)

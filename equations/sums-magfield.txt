@@ -1,0 +1,1 @@
+\text{magnetic field}_n=\sum_{i=0}^{n-1}I^iZI^{n-i-1}
