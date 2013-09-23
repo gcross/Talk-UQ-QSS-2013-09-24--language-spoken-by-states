@@ -1,6 +1,7 @@
 headings = [ // {{{
     "Exponential blow-up",
     "Matrix product states",
+    "Sum representations",
 ] // }}}
 
 script = function(){ return [ // {{{
@@ -330,5 +331,63 @@ script = function(){ return [ // {{{
         "flowbox",
         "signal"
     ),
+  // }}}
+  // Spin representations {{{
+    rotateNextHeading(),
+    hireAndFadeIn(0.5,"sum-lines"),
+    "",
+    hireAndFadeIn(0.5,"sums-cat"),
+    "",
+    hireAndFadeIn(0.5,"sums-W"),
+    "",
+    hireAndFadeIn(0.5,"sums-W2"),
+    "",
+    parallel(
+        sequence(
+            fadeOutAndFire(0.25,"sums-cat"),
+            hireAndFadeIn(0.25,"allsums-cat")
+        ),
+        sequence(
+            wait(0.25),
+            fadeOutAndFire(0.25,"sums-W"),
+            hireAndFadeIn(0.25,"allsums-W")
+        ),
+        sequence(
+            wait(0.5),
+            fadeOutAndFire(0.25,"sums-W2"),
+            hireAndFadeIn(0.25,"allsums-W2")
+        )
+    ),
+    "",
+    parallel(
+        sequence(
+            fadeOutAndFire(0.25,"allsums-cat"),
+            hireAndFadeIn(0.25,"starsums-cat")
+        ),
+        sequence(
+            wait(0.25),
+            fadeOutAndFire(0.25,"allsums-W"),
+            hireAndFadeIn(0.25,"starsums-W")
+        ),
+        sequence(
+            wait(0.5),
+            fadeOutAndFire(0.25,"allsums-W2"),
+            hireAndFadeIn(0.25,"starsums-W2")
+        )
+    ),
+    "",
+    hireAndFadeIn(0.5,"allsums-star"),
+    "",
+    hireAndFadeIn(0.5,"zps"),
+    "",
+    hireAndFadeIn(0.5,"allsums-star-restriction"),
+    "",
+    fadeOutAndFire(0.5,"starsums-cat","starsums-W","starsums-W2"),
+    "",
+    hireAndFadeIn(0.5,"starsums-magfield"),
+    "",
+    hireAndFadeIn(0.5,"starsums-spin"),
+    "",
+    hireAndFadeIn(0.5,"starsums-long"),
   // }}}
 ]} // }}}
