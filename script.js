@@ -4,7 +4,6 @@ headings = [ // {{{
     "Sum representations",
     "Regular sums",
     "Kleene's Theorem",
-    "MPS canonical form",
 ] // }}}
 
 script = function(){ return [ // {{{
@@ -432,28 +431,5 @@ script = function(){ return [ // {{{
     hireAndFadeIn(0.5,"kleene-theorem"),
     "",
     fadeOutAndFire(0.5,"kleene-theorem"),
-  // }}}
-  // Canonical form {{{
-    rotateNextHeading(),
-    "",
-    hireAndFadeIn(0.5,"mps-tuple"),
-    "",
-    hireAndFadeInUseActors(0.5,"canon-tuple","canon-eq","mps-canon-line"),
-    "",
-    fadeOutAndFire(0.5,"mps-tuple","canon-tuple","mps-canon-line"),
-    smooth(0.5,"canon-eq","y",-486.43),
-    "",
-    hireAndFadeIn(0.5,"canon-outline"),
-    "",
-    hireAndFadeInUseActor(0.5,"cm1","canon-outline"),
-    "",
-    hireAndFadeInUseActor(0.5,"cm2","canon-outline"),
-    "",
-    hireAndFadeInUseActor(0.5,"cm3","canon-outline"),
-    "",
-    hireAndFadeInUseActor(0.5,"cm4","canon-outline"),
-    "",
-    hireAndFadeInUseActor(0.5,"cm5","canon-outline"),
-    "",
   // }}}
 ]} // }}}
