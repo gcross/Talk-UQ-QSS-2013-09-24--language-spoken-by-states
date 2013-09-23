@@ -1217,7 +1217,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer10" />
   <rect
      y="-3.0517578e-05"
      x="2"
@@ -1495,7 +1495,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="flow"
-     style="display:none">
+     style="display:inline">
     <g
        id="flowbox"
        inkscape:label="#g14838">
@@ -1850,7 +1850,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="cat state"
-     style="display:none">
+     style="display:inline">
     <g
        id="cat_state"
        transform="translate(227.27441,0)"
@@ -1925,7 +1925,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="W state"
-     style="display:none">
+     style="display:inline">
     <g
        id="W_state"
        transform="translate(-6.1884769,0)"
@@ -2080,46 +2080,50 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="matrix_op"
-     style="display:none">
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="528.54742"
-       y="388.22968"
-       id="text7345-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7347-7"
-         x="528.54742"
-         y="388.22968">Z</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text18137"
-       y="388.22968"
-       x="467.15475"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       xml:space="preserve"><tspan
+     style="display:inline">
+    <g
+       id="matrix_op"
+       inkscape:label="#g16873">
+      <text
+         sodipodi:linespacing="125%"
+         id="text7345-9"
          y="388.22968"
+         x="528.54742"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="388.22968"
+           x="528.54742"
+           id="tspan7347-7"
+           sodipodi:role="line">Z</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
          x="467.15475"
-         id="tspan18139"
-         sodipodi:role="line">I</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="537.63922"
-       y="472.7142"
-       id="text18141"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan18143"
+         y="388.22968"
+         id="text18137"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan18139"
+           x="467.15475"
+           y="388.22968">I</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text18141"
+         y="472.7142"
          x="537.63922"
-         y="472.7142">I</tspan></text>
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
+         xml:space="preserve"><tspan
+           y="472.7142"
+           x="537.63922"
+           id="tspan18143"
+           sodipodi:role="line">I</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="matix_all"
-     style="display:none">
+     style="display:inline">
     <text
        sodipodi:linespacing="125%"
        id="matrix_0"
