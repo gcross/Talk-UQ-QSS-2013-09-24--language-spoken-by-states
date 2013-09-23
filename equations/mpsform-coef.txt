@@ -1,0 +1,1 @@
+\psi(\alpha,\dots,\zeta) = L\cdot M(\alpha)\cdots M(\zeta)\cdot R

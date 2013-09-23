@@ -1,0 +1,8 @@
+M'(x)_{ij} =
+\begin{cases}
+A:M_{i-1,j-1}(x) & i,j\in \{2\dots m+1\} \\
+B:\sum_{k=1}^m L_k\cdot M(x)_{k(j-1)} & i=1, j\in \{2\dots m+1\}\\
+C:\sum_{k=1}^m M(x)_{(i-1)k}\cdot R_k & j=m, i\in \{2\dots m+1\}\\
+D:\sum_{k,l=1}^m L_k\cdot M(x)_{kl}\cdot R_l & i=1,j=m \\
+0 & \text{otherwise}
+\end{cases}
