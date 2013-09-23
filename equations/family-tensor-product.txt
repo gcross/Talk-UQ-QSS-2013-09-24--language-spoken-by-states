@@ -1,1 +1,0 @@
-\bigotimes_{n=0}^\infty \left(\mathbb{C}^2\right)^{\otimes\,n}
