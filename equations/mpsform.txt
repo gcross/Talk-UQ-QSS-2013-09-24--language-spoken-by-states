@@ -1,1 +1,1 @@
-m\in\mathbb{N},\quad L\in\mathbb{C}^m,\quad M\in\mathbb{C}^{m\times m},\quad R\in\mathbb{C}^m
+m\in\mathbb{N},\quad L\in\mathbb{C}^m,\quad M\in(\mathbb{C}^2)^{m\times m},\quad R\in\mathbb{C}^m
