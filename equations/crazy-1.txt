@@ -1,0 +1,1 @@
+\sum_{i=1}^\infty \left|\uparrow\right>^i\left|\downarrow\right>^i

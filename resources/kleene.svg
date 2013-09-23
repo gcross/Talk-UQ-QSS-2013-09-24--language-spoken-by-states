@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +178,7 @@
      id="namedview26763"
      showgrid="false"
      inkscape:zoom="0.58681035"
-     inkscape:cx="158.07299"
+     inkscape:cx="-55.795085"
      inkscape:cy="363.80318"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -313,16 +313,24 @@
        y="483.93359"
        x="130.76834"
        sodipodi:role="line" /></text>
-  <flowRoot
+  <text
      xml:space="preserve"
-     id="flowRoot31198"
      style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
-     transform="translate(-4.25,106)"><flowRegion
-       id="flowRegion31200"><rect
-         id="rect31202"
-         width="904.89203"
-         height="511.23843"
-         x="63.052738"
-         y="203.93361"
-         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:Arial;-inkscape-font-specification:Arial" /></flowRegion><flowPara
-       id="flowPara31204">The set of regular sums is equal to the set of matrix product states.</flowPara></flowRoot></svg>
+     x="512.48438"
+     y="378.1102"
+     id="kleene-theorem"
+     sodipodi:linespacing="125%"
+     inkscape:label="#text13475"><tspan
+       sodipodi:role="line"
+       id="tspan13477"
+       x="512.48438"
+       y="378.1102">The set of regular sums is</tspan><tspan
+       sodipodi:role="line"
+       x="512.48438"
+       y="458.1102"
+       id="tspan13479">equal to the set of matrix</tspan><tspan
+       sodipodi:role="line"
+       x="512.48438"
+       y="538.11023"
+       id="tspan13481">product states.</tspan></text>
+</svg>

@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -178,7 +178,7 @@
      id="namedview26763"
      showgrid="false"
      inkscape:zoom="0.58681035"
-     inkscape:cx="158.07299"
+     inkscape:cx="771.5591"
      inkscape:cy="363.80318"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -314,7 +314,8 @@
        x="130.76834"
        sodipodi:role="line" /></text>
   <g
-     id="g31140">
+     id="regsum1"
+     inkscape:label="#g31140">
     <text
        sodipodi:linespacing="125%"
        id="text31056"
@@ -342,7 +343,8 @@
            x="197.5">Single qubits are regular sums.</tspan></tspan></text>
   </g>
   <g
-     id="g31147">
+     id="regsum2"
+     inkscape:label="#g31147">
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -377,7 +379,8 @@
            x="196.50391">regular sum.</tspan></tspan></text>
   </g>
   <g
-     id="g31156">
+     id="regsum3"
+     inkscape:label="#g31156">
     <text
        sodipodi:linespacing="125%"
        id="text31064"
@@ -412,7 +415,8 @@
            x="196.50391">sums is a regular sum.</tspan></tspan></text>
   </g>
   <g
-     id="g31165">
+     id="regsum4"
+     inkscape:label="#g31165">
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
@@ -437,13 +441,27 @@
          sodipodi:role="line"><tspan
            id="tspan31108"
            y="610.20441"
-           x="196.50391">The star of a regular sums is a </tspan></tspan><tspan
+           x="196.50391">The (Kleene) star of a regular</tspan></tspan><tspan
+         y="670.20441"
+         x="196.50391"
+         sodipodi:role="line"
+         id="tspan11155"><tspan
+           y="610.20441"
+           x="196.50391"
+           id="tspan11157"></tspan></tspan><tspan
+         y="730.20441"
+         x="196.50391"
+         sodipodi:role="line"
+         id="tspan11159"><tspan
+           y="610.20441"
+           x="196.50391"
+           id="tspan11161" /></tspan><tspan
          id="tspan31110"
          y="670.20441"
          x="196.50391"
          sodipodi:role="line"><tspan
            id="tspan31112"
            y="670.20441"
-           x="196.50391">regular sum.</tspan></tspan></text>
+           x="196.50391">sum is a regular sum.</tspan></tspan></text>
   </g>
 </svg>

@@ -3077,11 +3077,11 @@
      showgrid="false"
      inkscape:zoom="0.82987516"
      inkscape:cx="579.55441"
-     inkscape:cy="79.800989"
+     inkscape:cy="369.00112"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer17"
      inkscape:snap-object-midpoints="true" />
   <rect
      y="-3.0517578e-05"
@@ -3674,7 +3674,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="state gen"
-     style="display:inline">
+     style="display:none">
     <g
        style="display:inline"
        transform="matrix(1.0625,0,0,-1.0625,268.03511,420.4091)"
@@ -4454,7 +4454,7 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="state star"
-     style="display:inline">
+     style="display:none">
     <g
        transform="matrix(1.0625,0,0,-1.0625,367.40489,226.73503)"
        inkscape:label="starsums-cat"
@@ -5095,7 +5095,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="state lines"
-     style="display:inline">
+     style="display:none">
     <g
        id="sum-lines"
        inkscape:label="#g5896">
