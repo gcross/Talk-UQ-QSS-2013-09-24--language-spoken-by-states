@@ -1,0 +1,1 @@
+\text{language} := \text{some subset of words}

@@ -1,0 +1,1 @@
+\text{words} := \Sigma^* = () + \Sigma + \Sigma^2 + \dots

@@ -4,6 +4,7 @@ headings = [ // {{{
     "Sum representations",
     "Regular sums",
     "Kleene's Theorem",
+    "Proof of Kleene's Theorem",
 ] // }}}
 
 script = function(){ return [ // {{{
@@ -431,5 +432,16 @@ script = function(){ return [ // {{{
     hireAndFadeIn(0.5,"kleene-theorem"),
     "",
     fadeOutAndFire(0.5,"kleene-theorem"),
+    "",
+    hireAndFadeIn(0.5,"alphabet"),
+    "",
+    hireAndFadeIn(0.5,"words"),
+    "",
+    hireAndFadeIn(0.5,"language"),
+    "",
+    fadeOutAndFire(0.5,"alphabet","words","language"),
+  // }}}
+  // Proof of Kleene's Theorem
+    rotateNextHeading(),
   // }}}
 ]} // }}}
