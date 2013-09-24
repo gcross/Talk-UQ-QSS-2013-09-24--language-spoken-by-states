@@ -443,5 +443,13 @@ script = function(){ return [ // {{{
   // }}}
   // Proof of Kleene's Theorem
     rotateNextHeading(),
+    hireAndFadeInUseActors(0.5,"mps1","mps2"),
+    "",
+    hireAndFadeIn(0.5,"plus"),
+    "",
+    hireAndFadeInUseActors(0.5,"comboline","comboeq","sumblock","commonblocks"),
+    "",
+    fadeOutAndFire(0.5,"sumblock"),
+    hireAndFadeInUseActor(0.5,"prodblock","commonblocks"),
   // }}}
 ]} // }}}
