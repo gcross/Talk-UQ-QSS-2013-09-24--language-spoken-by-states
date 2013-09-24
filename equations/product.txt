@@ -1,0 +1,1 @@
+(M_3)_{ij} := \sum_{k=1}^{m_1} (M_1)_{ik}\cdot (R_1)_k \cdot (L_2)_j
